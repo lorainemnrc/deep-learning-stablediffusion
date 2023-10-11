@@ -4,11 +4,11 @@ In a world captivated by the wonders of chatGPT, the possibilities of large lang
 </p>
 
 <p align="justify"> &emsp;
-But what if we could take it a step further? What if, with a simple prompt, we could unlock the same power of chatGPT to ***generate immediate responses*** not through mere text, but ***through stunning images that bring our queries to life?*** Imagine the potential this holds - a world where words seamlessly transform into captivating visuals, transcending industries like e-commerce, creative design, gaming, and virtual realms.
+But what if we could take it a step further? What if, with a simple prompt, we could unlock the same power of chatGPT to <strong><em>generate immediate responses</em></strong> not through mere text, but <strong><em>through stunning images that bring our queries to life?</em></strong> Imagine the potential this holds - a world where words seamlessly transform into captivating visuals, transcending industries like e-commerce, creative design, gaming, and virtual realms.
 </p>
 
 <p align="justify"> &emsp;
-Enter the realm of text-to-image generation, where the boundaries of imagination are pushed to new heights! From transforming e-commerce experiences with virtual product try-ons, to fueling creative design with on-demand visual inspiration, and immersing ourselves in captivating virtual worlds, the applications of ✨text-to-image generation✨ are as diverse as our imagination.
+Enter the realm of text-to-image generation, where the boundaries of imagination are pushed to new heights! From transforming e-commerce experiences with virtual product try-ons to fueling creative design with on-demand visual inspiration, and immersing ourselves in captivating virtual worlds, the applications of ✨text-to-image generation✨ are as diverse as our imagination.
 </p>
 
 **Note:**
